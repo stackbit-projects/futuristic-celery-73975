@@ -32,10 +32,6 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
-  - type: blog_feed_section
-    title: What's New
-    show_recent: true
-    recent_count: 3
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
