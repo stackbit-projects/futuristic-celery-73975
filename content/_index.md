@@ -7,6 +7,7 @@ sections:
       - label: Learn More
         url: /about
         style: primary
+        new_window: true
       - label: Contact me
         url: /contact
         style: secondary
