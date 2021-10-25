@@ -29,7 +29,7 @@ sections:
       - title: About me
         content: "Mechanical engineer by training and more than 10 years of experience in the field of\_energy efficiency of buildings\_combined with a strong focus on\_energy modeling\_and interest in\_data science\_and\_machine learning applications.\n\nI started my journey in 2010 by joining the\_[Thermodynamics Laboratory of the University of Liège](https://www.labothap.uliege.be/cms/c\\_6307260/en/thermodynamics-laboratory)\_in Belgium and taking part in different research projects:\_[Bricker](http://www.bricker-project.com/),\_[iSERV](https://iservcmb.info/),\_[IEA EBC Annex 53](https://www.iea-ebc.org/projects/project?AnnexID=53).\n\nThen, I joined the engineering consultancy firm\_[Sweco Belgium](https://www.swecobelgium.be/en/)\_where I had the opportunity to apply many energy efficiency concepts to projects dealing with energy audits, green building certifications (BREEAM), energy performance certifications (PEB Belgium) and HVAC system design.\n\nToday, I'm looking for new challenges and developing new skills to take my career to the next level. I'm fully convinced that data science and machine learning can provide new and more efficient ways to improve the energy efficiency of buildings, as well as many other sectors.\n\nIf you are interested to know more about me, feel free to download my resume, take a look at my social media profiles or (even better) email me. I will be glad to hear from you, your interests and projects.\n"
         align: left
-        image: images/gordon-norman.jpg
+        image: images/oie_116175m8ElRCNE.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
