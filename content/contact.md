@@ -4,7 +4,10 @@ sections:
   - type: hero_section
     title: Get in touch!
     align: center
-    subtitle: dfsf
+    subtitle: >-
+      Are you looking for collaboration? If you are looking for any kind of
+      collaboration, don't hesitate to contact me by sending an email or message
+      through the following form. I will get back to you shortly!
   - type: contact_section
 seo:
   title: Contact
