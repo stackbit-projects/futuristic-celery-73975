@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/hero.svg
+    image: images/joshua-rawson-harris-KRELIShKxTM-unsplash.jpg
     image_alt: Hero placeholder image
     image_position: left
     has_background: true
