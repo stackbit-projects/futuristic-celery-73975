@@ -5,7 +5,7 @@ sections:
     subtitle: 'Energy modeling, data science & machine learning'
     actions:
       - label: Learn More
-        url: /features
+        url: /about
         style: primary
       - label: Contact me
         url: /contact
