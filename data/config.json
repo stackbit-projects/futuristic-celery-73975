@@ -30,7 +30,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "images/world-logo.png"
+        "logo": "images/world-logo.png",
+        "logo_alt": "re"
     },
     "footer": {
         "has_nav": true,
