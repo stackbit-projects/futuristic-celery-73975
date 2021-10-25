@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Contact
+    title: Get in touch!
     align: center
     subtitle: dfsf
   - type: contact_section
