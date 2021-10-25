@@ -9,6 +9,10 @@ sections:
       collaboration, don't hesitate to contact me by sending an email or message
       through the following form. I will get back to you shortly!
   - type: contact_section
+  - title: lorem-ipsum
+    show_recent: false
+    recent_count: 0
+    type: blog_feed_section
 seo:
   title: Contact
   description: This is the contact page
